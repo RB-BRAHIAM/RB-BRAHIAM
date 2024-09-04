@@ -1,4 +1,4 @@
-<h1 align="center">Hola👋, Me llamo Brahiam Velásquez Rueda</h1>
+<h1 align="center">Hola👋, Me llamo Brahiam Rueda</h1>
 <h3 align="center">Soy un Backend en formación</h3>
 
 - 💬 Ask me about **C# .NET, C++ y Python**
